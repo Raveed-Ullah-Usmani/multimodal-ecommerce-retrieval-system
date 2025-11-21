@@ -51,6 +51,8 @@ pip install -r requirements.txt
    ```
    - Creates/updates persistent collection `products` at `./chroma_db`.
 
+> **Shortcut:** This repo already includes `products/products_metadata_with_embeddings.json`, so you can begin at step 3 to initialize ChromaDB immediately. If you wish to re-scrape or regenerate embeddings, start back at step 1.
+
 4. **Ad-hoc search**
    ```bash
    # Single query
