@@ -6,3 +6,4 @@ products/images/
 __pycache__/
 *.pdf
 .venv/
+*.zip
