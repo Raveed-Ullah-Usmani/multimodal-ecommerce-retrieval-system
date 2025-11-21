@@ -6,8 +6,8 @@ from PIL import Image
 
 # --- CONFIGURATION ---
 # IMPORTANT: Adjust these paths if your setup differs
-PRODUCTS_FILE = os.path.join("products-1", "products_metadata.json")
-OUTPUT_FILE = os.path.join("products-1", "products_metadata_with_embeddings.json")
+PRODUCTS_FILE = os.path.join("products", "products_metadata.json")
+OUTPUT_FILE = os.path.join("products", "products_metadata_with_embeddings.json")
 
 # Initialize the CLIP model globally
 try:

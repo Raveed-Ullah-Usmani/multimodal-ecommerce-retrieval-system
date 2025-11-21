@@ -1,0 +1,8 @@
+chroma_db/
+products-1/
+products-20/
+products/images/
+*.pyc
+__pycache__/
+*.pdf
+.venv/

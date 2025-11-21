@@ -1,0 +1,208 @@
+
+================ Query 1 – Color & Style ================
+
+=== Query ===
+Text: royal blue sharara suit
+Vector dim: 1024
+Vector: [ 0.007923,  0.00195 ,  0.009889, ...,  0.05286 , -0.019969,  0.018081]
+
+=== Top Matches ===
+
+#1 — ID: namaz-chadar-with-sleeves-dark-blue-hue
+  Title: Namaz Chadar With Sleeves - Dark Blue Hue
+  Price: 1949.5
+  Distance (cosine): 0.3561
+  Caption: Tgm Luxe Swiss Lawn Chaddar in D, A, R, K, , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | YFP2556
+  Image: products/images/namaz-chadar-with-sleeves-dark-blue-hue.jpg
+  Metadata:
+    {
+      "product_title": "Namaz Chadar With Sleeves - Dark Blue Hue",
+      "price": 1949.5,
+      "size_options": [
+        "Standard Size"
+      ],
+      "sitemap_caption": "Tgm Luxe Swiss Lawn Chaddar in D, A, R, K,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | YFP2556",
+      "full_text_description": "TITLE: Namaz Chadar With Sleeves - Dark Blue Hue. CAPTION: Tgm Luxe Swiss Lawn Chaddar in D, A, R, K,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | YFP2556. ATTRIBUTES: color-type: dark blue external-product-id: YFP2556 fabric: swiss lawn number-of-pieces: 1 piece season: all season. DETAILS: Gender: Women Category: Clothing Outfit Type: Modest Wear Sub-Category: Chaddar Color Type: Dark Blue Fabric: Swiss Lawn Number of Pieces: 1 Piece Product Type: Daily/Basic Wear Season: All Season Additional Description: Our Namaz Chadars with sleeves are designed for ultimate comfort and ease during prayers. Featuring elastic sleeves, they ensure full coverage throughout every rukn, especially during sujood, without exposing your wrists. The elastic also makes wudu more convenient. Fabric: Swiss Lawn Length: Approximately 61-63 inches (head to toe) Face Opening: 9.5-10 inches (adjustable due to elastic) Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-baf10679a0e8415fb543e204a20439cb_16dabbfd-3dcb-479a-8e19-d613ef511daf.jpg?v=1762259586",
+      "local_image_path": "products/images/namaz-chadar-with-sleeves-dark-blue-hue.jpg"
+    }
+
+#2 — ID: falaksar-rkpvus044-navy-blu
+  Title: FALAKSAR-RKPVUS044-NAVY-BLU
+  Price: 5450
+  Distance (cosine): 0.3570
+  Caption: Rakaposhi Wash & Wear Unstitched in N, A, V, Y, , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan |...
+  Image: products/images/falaksar-rkpvus044-navy-blu.jpg
+  Metadata:
+    {
+      "product_title": "FALAKSAR-RKPVUS044-NAVY-BLU",
+      "price": 5450,
+      "size_options": [
+        "Unstitched"
+      ],
+      "sitemap_caption": "Rakaposhi Wash & Wear Unstitched in N, A, V, Y,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | IVM2542",
+      "full_text_description": "TITLE: FALAKSAR-RKPVUS044-NAVY-BLU. CAPTION: Rakaposhi Wash & Wear Unstitched in N, A, V, Y,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | IVM2542. ATTRIBUTES: color-type: navy blue external-product-id: IVM2542 fabric: wash & wear number-of-pieces: 2 piece - top & bottom season: all season. DETAILS: Gender: Men Category: Clothing Outfit Type: Eastern Sub-Category: Unstitched Color Type: Navy Blue Fabric: Wash & Wear Number of Pieces: 2 Piece - Top & Bottom Product Type: Daily/Basic Wear Season: All Season Additional Description: Elevate your wardrobe with Falaksar Rakaposhi; A Premium wash and wear Unstitched Fabric, expertly crafted to provide both comfort and style without the hassle of high-maintenance care. Designed for those who seek convenience without compromising on quality, this fabric combines the best of modern innovation and classic luxury. Fabric Size: 4.25-MTR Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/3000000034323_1_-174725775063049_7c3a51b5-4680-470a-af1d-7ba82ff9467a.jpg?v=1747292742",
+      "local_image_path": "products/images/falaksar-rkpvus044-navy-blu.jpg"
+    }
+
+#3 — ID: navy-blue-shalwar-kameez-2
+  Title: Navy Blue Shalwar Kameez
+  Price: 5499
+  Distance (cosine): 0.3571
+  Caption: Sapretbysaba Wash & Wear Shalwar Kameez in N, A, V, Y, , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in...
+  Image: products/images/navy-blue-shalwar-kameez-2.jpg
+  Metadata:
+    {
+      "product_title": "Navy Blue Shalwar Kameez",
+      "price": 5499,
+      "size_options": [],
+      "sitemap_caption": "Sapretbysaba Wash & Wear Shalwar Kameez in N, A, V, Y,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | XKE0686",
+      "full_text_description": "TITLE: Navy Blue Shalwar Kameez. CAPTION: Sapretbysaba Wash & Wear Shalwar Kameez in N, A, V, Y,  , B, L, U, E, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | XKE0686. ATTRIBUTES: bottom-style: loose-fit color-type: navy blue external-product-id: XKE0686 fabric: wash & wear number-of-pieces: 2 piece season: all season top-fit: regular fit top-style: straight-cut. DETAILS: Gender: Men Category: Clothing Outfit Type: Eastern Sub-Category: Shalwar Kameez Bottom Style: Loose-Fit Color Type: Navy Blue Fabric: Wash & Wear Number of Pieces: 2 Piece Product Type: Daily/Basic Wear Season: All Season Top Fit: Regular Fit Top Style: Straight-Cut Additional Description: Stuff: wash and wear Do not iron on high temperature, it can damage the fabric. Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-dc34c03e428e41389ea823f4e6e70fec_72e6bc3e-2d84-43ae-b702-690b08585a40.jpg?v=1751525202",
+      "local_image_path": "products/images/navy-blue-shalwar-kameez-2.jpg"
+    }
+
+================ Query 2 – Fabric / Occasion ================
+
+=== Query ===
+Text: formal wear for a mehndi
+Vector dim: 1024
+Vector: [ 0.013285, -0.002407, -0.00897 , ...,  0.045068,  0.013402, -0.002323]
+
+=== Top Matches ===
+
+#1 — ID: haze-mehndi-2pc
+  Title: Haze mehndi 2pc
+  Price: 1590
+  Distance (cosine): 0.3298
+  Caption: Chaudhary Arts Linen Co Ord Sets in Y, E, L, L, O, W, , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in...
+  Image: products/images/haze-mehndi-2pc.jpg
+  Metadata:
+    {
+      "product_title": "Haze mehndi 2pc",
+      "price": 1590,
+      "size_options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sitemap_caption": "Chaudhary Arts Linen Co Ord Sets in Y, E, L, L, O, W,  , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | RZW3838",
+      "full_text_description": "TITLE: Haze mehndi 2pc. CAPTION: Chaudhary Arts Linen Co Ord Sets in Y, E, L, L, O, W,  , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | RZW3838. ATTRIBUTES: bottom-style: straight trouser color-type: yellow green external-product-id: RZW3838 lining-attached: as shown in picture number-of-pieces: 2 piece - top & bottom season: winter wear shirt-fabrics: linen top-fit: regular fit top-style: v-neck shirt trouser-fabrics: linen. DETAILS: Gender: Women Category: Clothing Outfit Type: Eastern Ready to wear Sub-Category: Co Ord Sets Bottom Style: Straight Trouser Color Type: Yellow Green Lining Attached: As shown in Picture Number of Pieces: 2 Piece - Top & Bottom Product Type: Daily/Basic Wear Season: Winter Wear Shirt Fabrics: Linen Top Fit: Regular Fit Top Style: V-Neck Shirt Trouser Fabrics: Linen Additional Description: Step out in style with this trendy mehndi-printed co-ord set , crafted from premium linen fabric . The rich mehndi hue paired with a contemporary print strikes the perfect balance between comfort and elegance . Whether you’re heading for a casual outing or a semi-formal event , this outfit ensures an effortless, modern look with a hint of sophisticated charm . Key Features: Fabric: Premium Linen Color: Mehndi Green Style: Printed Co-ord Set Perfect for: Casual & Semi-Formal Occasions Comfort Fit with Elegant Appeal Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-ab51be3419764fcab79849dcb264c42d_258fbd53-b122-4da9-8a98-d6829b2bdc93.jpg?v=1762855326",
+      "local_image_path": "products/images/haze-mehndi-2pc.jpg"
+    }
+
+#2 — ID: sherwani-004
+  Title: sherwani 004
+  Price: 73333.4
+  Distance (cosine): 0.3510
+  Caption: Azlan Shahzad Jamawar Sherwani in M, U, L, T, I, available at LAAM. Premium Bride/Groom Wear for elegant looks in Pakistan | DXC8899
+  Image: products/images/sherwani-004.jpg
+  Metadata:
+    {
+      "product_title": "sherwani 004",
+      "price": 73333.4,
+      "size_options": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sitemap_caption": "Azlan Shahzad Jamawar Sherwani in M, U, L, T, I, available at LAAM. Premium Bride/Groom Wear for elegant looks in Pakistan | DXC8899",
+      "full_text_description": "TITLE: sherwani 004. CAPTION: Azlan Shahzad Jamawar Sherwani in M, U, L, T, I, available at LAAM. Premium Bride/Groom Wear for elegant looks in Pakistan | DXC8899. ATTRIBUTES: color-type: multi external-product-id: DXC8899 fabric: jamawar number-of-pieces: 1 piece - outerwear season: all season top-fit: regular fit work-technique: adda work. DETAILS: Gender: Men Category: Clothing Outfit Type: Eastern Sub-Category: Sherwani Color Type: Multi Fabric: Jamawar Number of Pieces: 1 Piece - Outerwear Product Type: Bride/Groom Wear Season: All Season Top Fit: Regular Fit Work Technique: Adda Work Additional Description: sherwani with golden shade and multi color cutt dana work Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/products/8e92741ec635df26b62fd5ad01798a9b.jpg?v=1701775242",
+      "local_image_path": "products/images/sherwani-004.jpg"
+    }
+
+#3 — ID: chunri-mehroon-digital-print-with-farshi-shalwar
+  Title: Chunri Mehroon (Digital Print with Farshi Shalwar)
+  Price: 4018
+  Distance (cosine): 0.3516
+  Caption: Gulposh Poly Lawn Kurta Set in M, A, R, O, O, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | NQN4975
+  Image: products/images/chunri-mehroon-digital-print-with-farshi-shalwar.jpg
+  Metadata:
+    {
+      "product_title": "Chunri Mehroon (Digital Print with Farshi Shalwar)",
+      "price": 4018,
+      "size_options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "sitemap_caption": "Gulposh Poly Lawn Kurta Set in M, A, R, O, O, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | NQN4975",
+      "full_text_description": "TITLE: Chunri Mehroon (Digital Print with Farshi Shalwar). CAPTION: Gulposh Poly Lawn Kurta Set in M, A, R, O, O, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | NQN4975. ATTRIBUTES: bottom-style: farshi shalwar color-type: maroon dupatta-fabrics: manaar external-product-id: NQN4975 lining-attached: as shown in picture number-of-pieces: 3 piece - top + bottom + dupatta season: all season shirt-fabrics: poly lawn top-fit: loose fit top-style: straight cut kurta trouser-fabrics: poly lawn work-technique: sublimation printed. DETAILS: Gender: Women Category: Clothing Outfit Type: Eastern Ready to wear Sub-Category: Kurta Set Bottom Style: Farshi Shalwar Color Type: Maroon Dupatta Fabrics: Manaar Lining Attached: As shown in Picture Number of Pieces: 3 Piece - Top + Bottom + Dupatta Product Type: Daily/Basic Wear Season: All Season Shirt Fabrics: Poly Lawn Top Fit: Loose Fit Top Style: Straight Cut Kurta Trouser Fabrics: Poly Lawn Work Technique: Sublimation Printed Additional Description: This exquisite Women's Eastern Ready to wear Kurta Set in maroon features a straight cut kurta with sublimation printed detailing. The set includes a farshi shalwar bottom and a manaar dupatta. The loose fit top and poly lawn fabrics make it perfect for daily wear in all seasons. Elevate your wardrobe with this stylish Gulposh ensemble. Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-736294f3e86749d68eca6ad6d19bd17d_a0feda72-5be0-4f00-9c3c-251dc036ad96.jpg?v=1762499734",
+      "local_image_path": "products/images/chunri-mehroon-digital-print-with-farshi-shalwar.jpg"
+    }
+
+================ Query 3 – Cross-modal imagery ================
+
+=== Query ===
+Text: dress that looks like a flower garden
+Vector dim: 1024
+Vector: [ 0.007293, -0.011943,  0.010674, ...,  0.010357, -0.00708 , -0.006228]
+
+=== Top Matches ===
+
+#1 — ID: 01-piece-ready-to-wear-printed-long-frock-2
+  Title: 01 Piece Ready to wear Printed Long frock
+  Price: 4218.5
+  Distance (cosine): 0.4010
+  Caption: Lakhany Chiffon Maxi in L, I, L, A, C, available at LAAM. Premium for elegant looks in Pakistan | MYM2164
+  Image: products/images/01-piece-ready-to-wear-printed-long-frock-2.jpg
+  Metadata:
+    {
+      "product_title": "01 Piece Ready to wear Printed Long frock",
+      "price": 4218.5,
+      "size_options": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sitemap_caption": "Lakhany Chiffon Maxi in L, I, L, A, C, available at LAAM. Premium  for elegant looks in Pakistan | MYM2164",
+      "full_text_description": "TITLE: 01 Piece Ready to wear Printed Long frock. CAPTION: Lakhany Chiffon Maxi in L, I, L, A, C, available at LAAM. Premium  for elegant looks in Pakistan | MYM2164. ATTRIBUTES: color-type: lilac external-product-id: MYM2164 number-of-pieces: 1 piece - top season: all season shirt-fabrics: chiffon top-style: flared maxi. DETAILS: Gender: Women Category: Clothing Outfit Type: Fusion Sub-Category: Maxi Color Type: Lilac Number of Pieces: 1 Piece - Top Season: All Season Shirt Fabrics: Chiffon Top Style: Flared Maxi Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/TH_03222.jpg?v=1757256318",
+      "local_image_path": "products/images/01-piece-ready-to-wear-printed-long-frock-2.jpg"
+    }
+
+#2 — ID: floral-contrast-2pcs
+  Title: FLORAL CONTRAST 2PCS
+  Price: 2064.3
+  Distance (cosine): 0.4061
+  Caption: Hamna Kalim Linen Kurta Set in B, O, T, T, L, E, , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in...
+  Image: products/images/floral-contrast-2pcs.jpg
+  Metadata:
+    {
+      "product_title": "FLORAL CONTRAST 2PCS",
+      "price": 2064.3,
+      "size_options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "sitemap_caption": "Hamna Kalim Linen Kurta Set in B, O, T, T, L, E,  , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | IFI4217",
+      "full_text_description": "TITLE: FLORAL CONTRAST 2PCS. CAPTION: Hamna Kalim Linen Kurta Set in B, O, T, T, L, E,  , G, R, E, E, N, available at LAAM. Premium Daily/Basic Wear for elegant looks in Pakistan | IFI4217. ATTRIBUTES: bottom-style: straight trouser color-type: bottle green dupatta-fabrics: manaar external-product-id: IFI4217 lining-attached: as shown in picture number-of-pieces: 2 piece - top & bottom season: all season shirt-fabrics: linen top-fit: regular fit top-style: straight cut kurta trouser-fabrics: linen work-technique: printed. DETAILS: Gender: Women Category: Clothing Outfit Type: Eastern Ready to wear Sub-Category: Kurta Set Bottom Style: Straight Trouser Color Type: Bottle Green Dupatta Fabrics: Manaar Lining Attached: As shown in Picture Number of Pieces: 2 Piece - Top & Bottom Product Type: Daily/Basic Wear Season: All Season Shirt Fabrics: Linen Top Fit: Regular Fit Top Style: Straight Cut Kurta Trouser Fabrics: Linen Work Technique: Printed Additional Description: This exquisite 2-piece co-ord set from Hamna Kalim is crafted from luxurious bottle green linen. The straight-cut shirt and straight trouser feature a printed design, making it a versatile daily wear option for all seasons. With a regular fit and lining attached as shown in the picture, this set offers both comfort and style. Perfect for any occasion. Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-5572d9bd41824c9b99419c59ebcc82c5_0667decd-7f51-4538-959c-c5f8fbdc944b.jpg?v=1758263220",
+      "local_image_path": "products/images/floral-contrast-2pcs.jpg"
+    }
+
+#3 — ID: zk-floral-set
+  Title: Zk| FLORAL SET
+  Price: 5915
+  Distance (cosine): 0.4121
+  Caption: Zaheen Kamran Jewelry Set in G, O, L, D, available at LAAM. Premium Women Jewelry designed for a glamorous look in Pakistan | NJT3144
+  Image: products/images/zk-floral-set.jpg
+  Metadata:
+    {
+      "product_title": "Zk| FLORAL SET",
+      "price": 5915,
+      "size_options": [],
+      "sitemap_caption": "Zaheen Kamran Jewelry Set in G, O, L, D, available at LAAM. Premium Women Jewelry designed for a glamorous look in Pakistan | NJT3144",
+      "full_text_description": "TITLE: Zk| FLORAL SET. CAPTION: Zaheen Kamran Jewelry Set in G, O, L, D, available at LAAM. Premium Women Jewelry designed for a glamorous look in Pakistan | NJT3144. ATTRIBUTES: color-type: gold external-product-id: NJT3144 number-of-pieces: 3 piece work-technique: gold plating. DETAILS: Gender: Women Category: Accessories Outfit Type: Jewelry Sub-Category: Jewelry Set Base Material: Metal Color Type: Gold Number of Pieces: 3 Piece Work Technique: Gold Plating Disclaimer: Actual product color may vary slightly from the image.",
+      "image_url": "https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-e81d54b07f2f44fcb77a0bee71cc91eb_435569af-b0e1-43d7-9e39-79e425b628ae.jpg?v=1758778265",
+      "local_image_path": "products/images/zk-floral-set.jpg"
+    }
