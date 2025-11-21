@@ -31,12 +31,16 @@ pip install -r requirements.txt
 
 ## Running the Pipeline
 
+> **No-scrape option:** If you prefer not to run the scraper, you can start from the ready-made JSON files under `products/`. Download the companion image bundle from [Google Drive](https://drive.google.com/file/d/1iZMoeP8kWvZ6oBRbllZDkxyYD6-uPCMM/view) and extract its `images/` directory directly into `products/`.
+
 1. **Scrape products (text + images)**
    ```bash
    source .venv/bin/activate
    python scraper.py
    ```
    - Outputs `products/products_metadata.json` and downloads images under `products/images/`.
+
+> **Shortcut:** This repo already includes `products/products_metadata_with_embeddings.json`, so you can begin at step 3 to initialize ChromaDB immediately. If you wish to regenerate embeddings, follow the step 2.
 
 2. **Generate multimodal embeddings**
    ```bash
@@ -50,8 +54,6 @@ pip install -r requirements.txt
    python ingest_to_chroma.py
    ```
    - Creates/updates persistent collection `products` at `./chroma_db`.
-
-> **Shortcut:** This repo already includes `products/products_metadata_with_embeddings.json`, so you can begin at step 3 to initialize ChromaDB immediately. If you wish to re-scrape or regenerate embeddings, start back at step 1.
 
 4. **Ad-hoc search**
    ```bash
@@ -84,7 +86,7 @@ All runs executed via `python demo_queries.py --output demo_queries_output.txt` 
      _Relevance:_ Semantic overlap between “royal blue” and “navy” drives the match.
   3. `navy-blue-shalwar-kameez-2` – Navy Blue Shalwar Kameez (distance 0.3571)  
      <img src="https://cdn.shopify.com/s/files/1/2337/7003/files/media_image-dc34c03e428e41389ea823f4e6e70fec_72e6bc3e-2d84-43ae-b702-690b08585a40.jpg?v=1751525202" alt="Navy Blue Shalwar Kameez" width="240" />  
-     _Relevance:_ Similar reasoning—closest navy-tone item despite lower cosine due to limited “royal blue sharara” data.
+     _Relevance:_ Similar reasoning—Semantic overlap between “royal blue” and “navy” drives the match.
 
 ### 2. Fabric / Occasion – `formal wear for a mehndi`
 - Vector: `[0.013285, -0.002407, -0.008970, …, 0.045068, 0.013402, -0.002323]`
